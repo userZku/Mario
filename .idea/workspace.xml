@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82501c9c-1fe6-40e6-a584-317e4247f504" name="Changes" comment="Window">
-      <change afterPath="$PROJECT_DIR$/src/main/java/juna/KeyListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/juna/MouseListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="82501c9c-1fe6-40e6-a584-317e4247f504" name="Changes" comment="Key and mouse listener">
+      <change afterPath="$PROJECT_DIR$/src/main/java/juna/LevelEditorScene.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/juna/LevelScene.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/juna/Scene.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/Time.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/juna/KeyListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/juna/KeyListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/juna/MouseListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/juna/MouseListener.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/juna/Window.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/juna/Window.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,13 +76,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677550746152</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Key and mouse listener">
+      <created>1677600396746</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677600396746</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Window" />
-    <option name="LAST_COMMIT_MESSAGE" value="Window" />
+    <MESSAGE value="Key and mouse listener" />
+    <option name="LAST_COMMIT_MESSAGE" value="Key and mouse listener" />
   </component>
 </project>
