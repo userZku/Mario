@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82501c9c-1fe6-40e6-a584-317e4247f504" name="Changes" comment="Key and mouse listener">
-      <change afterPath="$PROJECT_DIR$/src/main/java/juna/LevelEditorScene.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/juna/LevelScene.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/juna/Scene.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/Time.java" afterDir="false" />
+    <list default="true" id="82501c9c-1fe6-40e6-a584-317e4247f504" name="Changes" comment="Scene manager">
+      <change afterPath="$PROJECT_DIR$/assets/shaders/default.glsl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/juna/KeyListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/juna/KeyListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/juna/MouseListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/juna/MouseListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/juna/LevelEditorScene.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/juna/LevelEditorScene.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/juna/LevelScene.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/juna/LevelScene.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/juna/Scene.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/juna/Scene.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/juna/Window.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/juna/Window.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +35,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectId" id="2MLUJhRvfabJDK8jNuQ8aptA5FQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -45,14 +46,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -83,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677600396746</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Scene manager">
+      <created>1677634409857</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677634409857</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -91,6 +100,7 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Window" />
     <MESSAGE value="Key and mouse listener" />
-    <option name="LAST_COMMIT_MESSAGE" value="Key and mouse listener" />
+    <MESSAGE value="Scene manager" />
+    <option name="LAST_COMMIT_MESSAGE" value="Scene manager" />
   </component>
 </project>
